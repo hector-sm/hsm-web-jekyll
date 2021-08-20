@@ -30,7 +30,7 @@ twitter_username: mr_hectorsm
 github_username:  hectorsm
 
 # Build settings
-theme: jekyll-theme-hydure
+theme: minima
 plugins:
   - jekyll-feed
 
